@@ -16,21 +16,27 @@ As it is shown, the average math score dropped for .1, the average reading score
 
 ## School Summary Analysis
 Here is our school summary including Thomas High School grade 9th test scores:
+
 <img width="1007" alt="schoolsummary1" src="https://user-images.githubusercontent.com/100812201/161198820-0b7f98df-3129-4f55-97fd-757e7905cb3c.png">
 
 and here is without:
+
 <img width="1009" alt="schoolsummary2" src="https://user-images.githubusercontent.com/100812201/161198907-e51fa82d-2e24-450a-89f9-36a5797351bc.png">
 
 Also here if we look at Thomas High School outcomes the differences are obvious. After the changes, math score was decreased  for .06, reading score was increased for .05, the percentage of passing math was decreased for 27%, the percentage of passing reading was decreased for 24% and the percentage of overall passing was decreased for 25%. 
+
 ## High performing schools
 Here based on our top schools summary we can see that before Thomas High School was in the top five high schools list and it was the second high school from the top but after tha changes for grade 9 students, Thomas High School is not on the list at all :
+
 <img width="1007" alt="topschools1" src="https://user-images.githubusercontent.com/100812201/161200491-8525b24d-7e4a-47b8-be7a-0b791c79e816.png">
 
 <img width="1004" alt="topschools2" src="https://user-images.githubusercontent.com/100812201/161200512-acb3c250-b277-445c-a09b-a91f8d197669.png">
 
 ## Low performing schools
 Everything remains the same after the changes for Bottom five performing school and here it is:
+
 <img width="997" alt="bottomschools2" src="https://user-images.githubusercontent.com/100812201/161201350-4250b707-efd8-452f-995f-5ad7199b34fe.png">
+
 <img width="1005" alt="bottomschools1" src="https://user-images.githubusercontent.com/100812201/161201363-9b402f71-706e-4ab0-a6c0-c08cc8ddd27e.png">
 
 
@@ -59,15 +65,20 @@ Based on the School Spending summary, the replacement did not impact the spendin
 
 The average for math and reading score remained the same;The percentage for passing math, reading and overall changed. However for small and large school sizes is not that noticable and the change is too small. For medium school sizes the change is noticeable. The percentage for passing math dropped for 6%, for reading dropped for 6% as well as overall passing (6%). 
 the first school size summary:
+
 <img width="773" alt="schoolsize1" src="https://user-images.githubusercontent.com/100812201/161206942-76d8e16f-5a56-4192-80e1-59cb7cb43f99.png">
+
 the second one after our replacement :
+
 <img width="803" alt="schoolsize2" src="https://user-images.githubusercontent.com/100812201/161206989-fd29f60e-d0c5-49d6-8a62-d9da014c4bf2.png">
 
 ## School Type Summary
 Also we had changes on the percentage of passing math, reading and overall but we didn't have any changes on the average scores.
 
 School type summary :
+
 <img width="584" alt="schooltype1" src="https://user-images.githubusercontent.com/100812201/161207646-bde6d518-e0fa-4b81-9733-2dcceae1e622.png">
 
 School type summary after our replacement :
+
 <img width="730" alt="schooltype2" src="https://user-images.githubusercontent.com/100812201/161207659-b8e974b2-efa7-465a-aa69-7e09520eba78.png">
